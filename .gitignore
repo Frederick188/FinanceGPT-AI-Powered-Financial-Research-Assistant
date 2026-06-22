@@ -1,0 +1,16 @@
+AAPL/apple_news_data.csv
+
+# Environment
+.env
+finance_agent/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+finance_agent/rag/faiss_index/
+finance_agent/rag/documents/uploaded_report.pdf

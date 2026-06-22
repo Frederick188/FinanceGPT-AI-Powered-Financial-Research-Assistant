@@ -1,0 +1,80 @@
+QUESTIONS THAT CAN BE ASKED IN STOCK ANALYSIS:
+
+
+Stock Analysis:
+Analyze Amazon
+How is Amazon performing today?
+What's your analysis of Amazon?
+
+Comparison:
+Compare Amazon and Microsoft.
+Compare Amazon and Apple.
+
+
+These questions will showcase all the capabilities of your FinanceGPT:
+
+->Live financial news
+-> FinBERT sentiment analysis
+-> Technical indicators (RSI, MACD, Moving Averages)
+-> XGBoost prediction
+-> Confidence score
+-> AI-generated BUY/HOLD/SELL recommendation
+
+
+
+
+
+QUESTIONS THAT CAN BE ASKED IN FINANCE_GPT:
+
+Business Overview:
+
+->What does Amazon do?
+->Summarize Amazon's annual report.
+->What are Amazon's main business segments?
+->How does Amazon generate revenue?
+->What are Amazon's primary sources of income?
+
+Financial Performance:
+
+->What were Amazon's major financial highlights?
+->How did Amazon perform this year?
+->What were Amazon's key revenue drivers?
+->What factors affected Amazon's profitability?
+
+Risk Factors:
+
+->What are Amazon's major business risks?
+->What operational risks does Amazon face?
+->What regulatory risks does Amazon mention?
+->How could economic conditions affect Amazon?
+
+AI & Technology:
+
+->What does Amazon say about artificial intelligence?
+->What AI investments has Amazon made?
+->How is Amazon using generative AI?
+->What technology initiatives are mentioned?
+
+Operations:
+
+->How does Amazon manage its supply chain?
+->What logistics challenges does Amazon discuss?
+->What fulfillment strategies are mentioned?
+ 
+ESG & Sustainability:
+->What sustainability initiatives does Amazon mention?
+->What are Amazon's climate commitments?
+->What does Amazon say about employee safety?
+
+Strategy:
+->What is Amazon's long-term strategy?
+->What are Amazon's future growth opportunities?
+->What competitive advantages does Amazon mention?
+
+
+Corporate Governance:
+->Who are Amazon's key executives?
+->What does Amazon say about corporate governance?
+->What legal proceedings are discussed?
+
+
