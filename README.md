@@ -1,4 +1,4 @@
-# 📈 FinanceGPT: AI-Powered Financial Research Assistant
+# FinanceGPT: AI-Powered Financial Research Assistant
 
 FinanceGPT is an end-to-end AI-powered financial analysis platform that combines Large Language Models, Machine Learning, Sentiment Analysis, Technical Indicators, and Retrieval-Augmented Generation (RAG) to assist investors in making informed decisions.
 
