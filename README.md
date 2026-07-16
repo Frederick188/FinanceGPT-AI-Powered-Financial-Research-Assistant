@@ -278,6 +278,12 @@ streamlit run finance_gpt.py
 
 ---
 
+## Author
+
+**Udit Ray**
+
+---
+
 ## Disclaimer
 
 This project is developed for educational and research purposes.
